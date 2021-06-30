@@ -17,5 +17,9 @@ A 23-year-old undergrad passionate about Machine learning, Data Science, Artific
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
-<img src="https://github-readme-stats.vercel.app/api?username=AnuragAnalog&show_icons=true&theme=radical&count_private=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragAnalog&hide=tsql,jupyter%20notebook&layout=compact&langs_count=10">
+<img src="https://github-readme-stats.vercel.app/api?username=AnuragAnalog&show_icons=true&theme=radical&count_private=true">
+
 ![Anurag's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AnuragAnalog)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragAnalog&hide=tsql,jupyter%20notebook&layout=compact&langs_count=10">
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=AnuragAnalog&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
