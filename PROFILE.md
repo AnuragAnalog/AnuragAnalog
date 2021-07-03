@@ -7,7 +7,7 @@
 A 23-year-old undergrad passionate about Machine learning, Data Science, Artificial Intelligence.
 
 - 👯 I’m looking to collaborate on Machine Learning Projects
-- 💬 Ask me about anything [here](https://github.com/AnuragAnalog/ANuragAnalog/issues)
+- 💬 Ask me about anything [here](https://github.com/AnuragAnalog/AnuragAnalog/issues)
 
 **I'm an Early 🐤** 
 
@@ -18,8 +18,8 @@ A 23-year-old undergrad passionate about Machine learning, Data Science, Artific
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
 <img src="https://github-readme-stats.vercel.app/api?username=AnuragAnalog&show_icons=true&theme=radical&count_private=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragAnalog&hide=tsql,jupyter%20notebook&layout=compact&langs_count=10">
 
 ![Anurag's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AnuragAnalog)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragAnalog&hide=tsql,jupyter%20notebook&layout=compact&langs_count=10">
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=AnuragAnalog&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
