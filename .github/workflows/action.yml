@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: AnuragAnalog/AnuragAnalog@latest
-      # If you make changes on your fork, be sure not leave @latest as tag!
+        # If you make changes on your fork, be sure not leave @latest as tag!
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
