@@ -10,7 +10,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: AnuragAnalog/AnuragAnalog@main
+      - uses: AnuragAnalog/metrics@main
       # If you make changes on your fork, be sure not leave @latest as tag!
         with:
           # Your GitHub token
