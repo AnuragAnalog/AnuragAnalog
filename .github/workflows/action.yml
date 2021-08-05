@@ -14,6 +14,8 @@ jobs:
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_LECOQ_IO }}
+          # Filename
+          filename: metrics-left.svg
 
           # Options
           user: AnuragAnalog
