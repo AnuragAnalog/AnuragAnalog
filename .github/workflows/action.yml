@@ -21,6 +21,7 @@ jobs:
           user: AnuragAnalog
           template: classic
           base: header, activity, community, repositories
+          config_padding: 0, 0
           config_timezone: Asia/Calcutta
           plugin_followup: yes
           plugin_followup_sections: repositories
@@ -58,6 +59,7 @@ jobs:
           user: AnuragAnalog
           template: classic
           base: ""
+          config_padding: 0, 0
           config_timezone: Asia/Calcutta
           plugin_achievements: yes
           plugin_achievements_secrets: yes
