@@ -42,7 +42,7 @@ jobs:
           plugin_stargazers: yes
           plugin_people: yes
           plugin_people_limit: 36
-          plugin_people_size: 30
+          plugin_people_size: 32
           plugin_people_types: followers, following
 
   github-metrics-right:
