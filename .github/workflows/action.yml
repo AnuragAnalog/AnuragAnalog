@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
+          # Your GitHub token(expires on Nov 30, 2021)
           token: ${{ secrets.METRICS_LECOQ_IO }}
           # Filename
           filename: metrics-left.svg
