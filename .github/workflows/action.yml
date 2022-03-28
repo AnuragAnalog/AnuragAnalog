@@ -59,7 +59,7 @@ jobs:
           user: AnuragAnalog
           template: classic
           base: ""
-          config_padding: 0, 0
+#           config_padding: 0, 0
           config_timezone: Asia/Calcutta
 #           plugin_achievements: yes
 #           plugin_achievements_secrets: yes
