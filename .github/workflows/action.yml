@@ -26,10 +26,10 @@ jobs:
           plugin_followup: yes
           plugin_followup_sections: repositories
           plugin_gists: yes
-          plugin_habits: yes
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_from: 200
+#           plugin_habits: yes
+#           plugin_habits_days: 14
+#           plugin_habits_facts: yes
+#           plugin_habits_from: 200
           plugin_languages: yes
           plugin_languages_colors: github
           plugin_languages_ignored: TSQL, Jupyter Notebook
@@ -38,7 +38,7 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
-#           plugin_lines: yes
+          plugin_lines: yes
 #           plugin_stargazers: yes
 #           plugin_people: yes
 #           plugin_people_limit: 28
@@ -66,9 +66,12 @@ jobs:
 #           plugin_achievements_threshold: C
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          plugin_lines: yes
-#           plugin_stargazers: yes
+          plugin_stargazers: yes
 #           plugin_people: yes
 #           plugin_people_limit: 28
 #           plugin_people_size: 28
 #           plugin_people_types: followers, following
+          plugin_habits: yes
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_from: 200
