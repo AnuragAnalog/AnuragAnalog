@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token(expires on Nov 30, 2021)
+          # Your GitHub token(expires on Jun 26, 2022)
           token: ${{ secrets.METRICS_LECOQ_IO }}
           # Filename
           filename: metrics-left.svg
@@ -21,7 +21,7 @@ jobs:
           user: AnuragAnalog
           template: classic
           base: header, activity, community, repositories
-          config_padding: 0, 0
+#           config_padding: 0, 0
           config_timezone: Asia/Calcutta
           plugin_followup: yes
           plugin_followup_sections: repositories
