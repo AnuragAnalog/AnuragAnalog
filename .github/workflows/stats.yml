@@ -21,4 +21,4 @@ jobs:
           repository: AnuragAnalog/AnuragAnalog
           # Set a GitHub API token that can read the stats repository, and that can push to the data
           # repository (which this workflow file lives in), to store data and the report files.
-          ghtoken: ${{ secrets.ANURAGANALOG_STATS }}
+          ghtoken: ${{ secrets.ghrs_github_api_token }}
