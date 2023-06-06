@@ -23,9 +23,9 @@ jobs:
           base: header, activity, community, repositories
 #           config_padding: 0, 0
           config_timezone: Asia/Calcutta
-#           plugin_followup: yes
-#           plugin_followup_sections: repositories
-#           plugin_gists: yes
+          plugin_followup: yes
+          plugin_followup_sections: repositories
+          plugin_gists: yes
 #           plugin_habits: yes
 #           plugin_habits_days: 14
 #           plugin_habits_facts: yes
